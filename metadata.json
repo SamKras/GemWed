@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Sam Krasilnikov - Premium Wedding Production",
+  "description": "The official portfolio and interactive platform of Sam Krasilnikov, specializing in high-end, cinematic wedding storytelling and Same Day Edit production.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
